@@ -1,7 +1,7 @@
 import pickle
 from selenium import webdriver
 
-
+# checks if its the first time
 def checkcookies():
 	try:
 		filelen=pickle.load(open("Cookies.txt","rb"))
@@ -10,6 +10,7 @@ def checkcookies():
 	if len(filelen) == 0:
 		return "false"
 
+#else sets up credentials
 
 def setup(cpath,options):
  print ("You're not logged in. Checking auth.txt")
