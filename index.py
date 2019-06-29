@@ -10,8 +10,7 @@ from localio import *
 if checkcookies() == "false":
 	setup(cpath,options)
 
-cpath = "/home/avirizal51/chromdriver"
-
+cpath = "/home/user/chromdriver" # chromedriver path 
 
 options = webdriver.ChromeOptions()
 options.add_argument('headless')
