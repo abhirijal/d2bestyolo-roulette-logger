@@ -10,7 +10,10 @@ This bot is for dota2bestyolo's roulette game. It has only 3 possible colors. It
  - Chromium web driver ( BELOW Chrome v73.0. Included in the repo )
 
 ## How to use.
-Edit your credentials in auth.txt file. After the first run, you are free to delete the contents of this file BUT DO NOT DELETE THE FILE ITSELF. Your cookies are stored securely in cookies.txt
+ - Edit your credentials in auth.txt file. After the first run, you are free to delete the contents of this file BUT DO NOT DELETE
+ THE FILE ITSELF. Your cookies are stored securely in cookies.txt.
+  - Open index.py
+
 
 # How to view the recorded log?
  - See log.txt . Or you can specify your own file in localio.py
