@@ -1,7 +1,7 @@
 import time
 import pickle
 
-
+# writes to the file log.txt
 
 def savetofile(color):
 	myfile = open("log.txt","a")
