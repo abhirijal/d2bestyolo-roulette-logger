@@ -25,6 +25,7 @@ This bot is for dota2bestyolo's roulette game. It has only 3 possible colors. It
 ## How to disable headless mode?
 Add # to line 16 in index.py
 
+
 Please note : I do not promote or encourage any kind of gambling habit. This bot was just made to record the roulette game with an effort to know how fair the game is.
 
  
