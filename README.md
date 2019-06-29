@@ -2,7 +2,7 @@
 A Python Selenium bot which records roulette wins from D2BY. Uses chromium as selenium web driver.
 
 ## More info please?
-This bot is for dota2bestlogs the current roulette color into a text file log.txt. This text file may be useful to analyze it's pattern which means $$$ XD. Work IN PROGRESS
+This bot is for dota2bestyolo's roulette game. It has only 3 possible colors. It logs the current roulette color into a text file log.txt. This text file may be useful to analyze it's pattern / to check if the game actually stands up to it's 'fairness'. Work IN PROGRESS
 
 ## Requirments
  - Python 3
@@ -21,6 +21,8 @@ Edit your credentials in auth.txt file. After the first run, you are free to del
  
 ## How to disable headless mode?
 Add # to line 16 in index.py
+
+Please note : I do not promote or encourage any kind of betting habit. This bot was just made to record the roulette game with the effort to know how fair the game is.
 
  
 
