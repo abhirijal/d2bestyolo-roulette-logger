@@ -1,6 +1,6 @@
 from selenium import webdriver
 
-
+# the main brain 
 def seperaterows(driver,tlist):
 	pointsrwen = driver.find_elements_by_xpath('//*[@id="all-lottery"]/div[1]/div[2]/div[1]/div[3]/ul')[0]
 	pointsrw = pointsrwen.text
