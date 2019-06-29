@@ -1,5 +1,5 @@
 # d2bestyolo-roulette-logger
-A Python Selenium bot which records roulette wins from D2BY. Uses chromium as selenium web driver.
+A Python Selenium bot which records roulette wins from D2BY. Uses chromium as the web driver.
 
 ## More info please?
 This bot is for dota2bestyolo's roulette game. It has only 3 possible colors. It logs the current roulette color into a text file log.txt. This text file may be useful to analyze it's pattern / to check if the game actually stands up to it's 'fairness'. Work IN PROGRESS
