@@ -12,7 +12,7 @@ This bot is for dota2bestyolo's roulette game. It has only 3 possible colors. It
 ## How to use.
  - Edit your credentials in auth.txt file. After the first run, you are free to delete the contents of this file BUT DO NOT DELETE
  THE FILE ITSELF. Your cookies are stored securely in cookies.txt.
-  - Open index.py
+  - Run index.py
 
 
 # How to view the recorded log?
